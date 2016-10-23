@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 R: Git creates a new folder named .git that contains all data required for git. It is needed by your project for keeping track about all changes
 made in the folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+R: The staging area is where you place the files in your working directory that want to commit
+to the repository. It helps us to make logically separated commits.
