@@ -14,3 +14,7 @@ and the changes for being commited.
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 R: It is useful when you are going to work in a contribuited project; every member of the team
 could create a new branch and work with a different feature.
+
+How do the diagrams help you visualize the branch structure?
+R: It allows see a commits timeline of the selected branches to determine which commits are
+included in an especific branch.
