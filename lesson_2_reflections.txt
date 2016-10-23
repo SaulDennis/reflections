@@ -5,3 +5,8 @@ made in the folder.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 R: The staging area is where you place the files in your working directory that want to commit
 to the repository. It helps us to make logically separated commits.
+
+How can you use the staging area to make sure you have one commit per logical change?
+R: I could use the command git status to identify the files that are in the staging area 
+and then the command git diff --staged to check the differences between the last commit
+and the changes for being commited. 
