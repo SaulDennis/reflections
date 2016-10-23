@@ -18,3 +18,6 @@ could create a new branch and work with a different feature.
 How do the diagrams help you visualize the branch structure?
 R: It allows see a commits timeline of the selected branches to determine which commits are
 included in an especific branch.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+R: Merging two branches or more results in a merge commit to add all changes made in every branch.
