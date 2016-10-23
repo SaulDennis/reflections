@@ -21,3 +21,11 @@ included in an especific branch.
 
 What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 R: Merging two branches or more results in a merge commit to add all changes made in every branch.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+R: An advantage of automatic merging is that you don't have to worry about doing the merge
+by yourself. On the other hand there are cases when the merging is not performed correctly by
+Git.
+
+
+
